@@ -54,7 +54,7 @@ contract CryptoShop {
         uint256[] _ord_item_prices;
     }
 
-    // Used In Heler Method - array_search
+    // Used In Helper Method - array_search
     struct ArraySearch {
         bool found;
         uint256 key;
